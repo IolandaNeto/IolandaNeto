@@ -1,7 +1,7 @@
 # About me 👋
 
 - ✨ I’m currently working on my first steps here
-- 🌱 I’m currently learning C Language and Logic
+- 🌱 Learning C Language and Logic
 - 🚀 Systems Analysis and Development Student | Estudante de Análise e Desenvolvimento de Sistemas
 - 👯 I’m looking to collaborate on beginner-friendly open-source projects
 - 📫 How to reach me: Instagram - neto_iolanda
